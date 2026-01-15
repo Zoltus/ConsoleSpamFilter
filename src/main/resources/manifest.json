@@ -1,0 +1,18 @@
+{
+  "Group": "Zoltus",
+  "Name": "ConsoleSpamFilter",
+  "Version": "1.0.0",
+  "Description": "Ability to filter console spam messages.",
+  "Authors": [
+    {
+      "Name": "Zoltus"
+    }
+  ],
+  "Website": "https://github.com/Zoltus",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "fi.sulku.hytale.ConsoleSpamFilter",
+  "IncludesAssetPack": false
+}
