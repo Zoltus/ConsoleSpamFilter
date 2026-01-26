@@ -1,4 +1,4 @@
-package fi.sulku.hytale
+package fi.sulku.hytale.consolespamfilter
 
 import com.hypixel.hytale.codec.Codec
 import com.hypixel.hytale.codec.KeyedCodec

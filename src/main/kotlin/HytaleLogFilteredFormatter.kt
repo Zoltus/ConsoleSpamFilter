@@ -1,4 +1,4 @@
-package fi.sulku.hytale
+package fi.sulku.hytale.consolespamfilter
 
 import com.hypixel.hytale.logger.backend.HytaleLogFormatter
 import java.util.function.BooleanSupplier
